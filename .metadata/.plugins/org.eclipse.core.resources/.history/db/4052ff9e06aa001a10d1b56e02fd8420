@@ -1,0 +1,10 @@
+import java.math.BigDecimal;
+
+public class Loan {
+	int tenure;
+	BigDecimal ticketSize;
+	BigDecimal fee;
+	BigDecimal totalLoan;
+	BigDecimal installmentPerMonth;
+	String status;
+}

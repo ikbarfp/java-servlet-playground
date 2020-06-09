@@ -1,0 +1,12 @@
+import java.io.*;
+import java.math.BigDecimal;
+
+public class LoanServiceImpl extends Loan {
+
+	public LoanServiceImpl(int tenure, BigDecimal ticketSize, BigDecimal fee, BigDecimal totalLoan,
+			BigDecimal installmentPerMonth, String status) {
+		super(tenure, ticketSize, fee, totalLoan, installmentPerMonth, status);
+		// TODO Auto-generated constructor stub
+	}
+	
+}

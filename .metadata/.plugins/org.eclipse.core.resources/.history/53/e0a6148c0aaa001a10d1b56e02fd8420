@@ -1,0 +1,4 @@
+
+public class LoanServiceImpl {
+	public static String MyLongString = "abcdef";
+}

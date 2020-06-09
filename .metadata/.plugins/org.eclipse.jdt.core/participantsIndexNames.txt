@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Apache-Tomcat-v.6.0\lib\webapps\java-simple-webserver\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3552284160.index
+\SimpleWebApp\src

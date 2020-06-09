@@ -1,0 +1,14 @@
+import java.io.*;
+
+public class LoanService extends LoanServiceImpl {
+
+	public LoanService() {
+		System.out.println(LoanServiceImpl.MyLongString);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
